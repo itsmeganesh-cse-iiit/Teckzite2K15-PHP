@@ -25,13 +25,11 @@ What things you need to install the software and how to install them
 * [MySQL](https://www.mysql.com/) - Used to store data.
 
 ###  Demo
-**Desktop website
+
 [![N|Solid](https://drive.google.com/uc?export=download&id=1b_nJ8tYPjjKrWvCXbC5F_GAomIcT1off
 )]()
-**Mobile site
 [![N|Solid](https://drive.google.com/uc?export=download&id=1yiXFxqzsskV4kbcAw7P8EQvqXmFl0mlW
 )]()
-**Event Poster
 [![N|Solid](https://drive.google.com/uc?export=download&id=1AbfpmaSz9rrp7V-U0cP0ul1jLvtKGke2
 )]()
 
